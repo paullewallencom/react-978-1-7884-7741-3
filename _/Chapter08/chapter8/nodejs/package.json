@@ -1,0 +1,26 @@
+{
+  "name": "user_management_api",
+  "version": "1.0.0",
+  "description": "Firebase Admin SDK for User management API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "firebase",
+    "admin",
+    "sdk",
+    "user",
+    "management"
+  ],
+  "author": "harmeetsingh090",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "firebase-admin": "^5.8.1",
+    "http": "0.0.0"
+  }
+}
